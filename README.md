@@ -7,7 +7,7 @@
 ![Vitest](https://img.shields.io/badge/Vitest-1.x-6E9F18?logo=vitest&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
-> 🔗 **[Live Demo →](https://qa-metrics-dashboard.vercel.app)**
+> 🔗 **[Live Demo →](https://bmontes1067-qa-metrics-dashboard.vercel.app)**
 
 A quality metrics dashboard for QA teams built with **Vue 3**, **TypeScript** and **Chart.js**. Visualizes test pass rates, bug distribution by module, coverage by test type, and response time trends across sprints.
 
